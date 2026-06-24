@@ -182,3 +182,6 @@ dotnet publish -c Release -r win-x64 --self-contained false -o ForecastDesk.publ
 ![Forecast Desk settings](assets/screenshots/Screenshot_3.png)
 
 
+![Forecast Desk settings](assets/screenshots/Screenshot_4.png)
+
+
