@@ -173,12 +173,12 @@ dotnet publish -c Release -r win-x64 --self-contained false -o ForecastDesk.publ
 ## Screenshots
 
 
-![Forecast Desk main window](assets/screenshots/forecast-desk-main-dark.png)
+![Forecast Desk main window](assets/screenshots/Screenshot_1.png)
 
 
-![Telegram preview](assets/screenshots/forecast-desk-preview.png)
+![Telegram preview](assets/screenshots/Screenshot_2.png)
 
 
-![Forecast Desk settings](assets/screenshots/forecast-desk-settings.png)
+![Forecast Desk settings](assets/screenshots/Screenshot_3.png)
 
 
