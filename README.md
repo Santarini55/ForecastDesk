@@ -169,3 +169,16 @@ dotnet publish -c Release -r win-x64 --self-contained false -o ForecastDesk.publ
 6. Введите эти данные в окне `Настройки`.
 
 
+
+## Screenshots
+
+
+![Forecast Desk main window](assets/screenshots/forecast-desk-main-dark.png)
+
+
+![Telegram preview](assets/screenshots/forecast-desk-preview.png)
+
+
+![Forecast Desk settings](assets/screenshots/forecast-desk-settings.png)
+
+
