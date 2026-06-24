@@ -51,7 +51,6 @@ dotnet publish -c Release -r win-x64 --self-contained false -o ForecastDesk.publ
 - скриншоты;
 - профиль WebView2 для TradingView.
 
-Эти данные не нужно публиковать в GitHub.
 
 ## Как пользоваться
 
@@ -76,4 +75,4 @@ dotnet publish -c Release -r win-x64 --self-contained false -o ForecastDesk.publ
 5. Если отправка идёт в тему группы, укажите `Topic ID`.
 6. Введите эти данные в окне `Настройки`.
 
-Bot Token нельзя публиковать в интернете. Если token попал в открытый доступ, его нужно перевыпустить через `@BotFather`.
+
